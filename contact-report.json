@@ -1,0 +1,1757 @@
+{
+ "sections": [
+  {
+   "tag": "header",
+   "name": "Desktop dark",
+   "text": "AboutOur HikesGalleryJournalBook Your HikeBook Your Hike",
+   "rect": {
+    "x": 0,
+    "y": 8,
+    "w": 1440,
+    "h": 76
+   },
+   "style": {
+    "fontFamily": "sans-serif",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "lineHeight": "normal",
+    "letterSpacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "start",
+    "display": "flex",
+    "gap": "0px"
+   }
+  },
+  {
+   "tag": "section",
+   "name": "Contact ",
+   "text": "Contact usLet's plan your next adventureEmailemail@trova.comPhone+1 (9",
+   "rect": {
+    "x": 55,
+    "y": 0,
+    "w": 1330,
+    "h": 864
+   },
+   "style": {
+    "fontFamily": "sans-serif",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "lineHeight": "normal",
+    "letterSpacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "120px 32px 60px",
+    "textAlign": "start",
+    "display": "flex",
+    "gap": "10px"
+   }
+  },
+  {
+   "tag": "footer",
+   "name": "Desktop",
+   "text": "Your next adventure starts hereExplore remote landscapes, local storie",
+   "rect": {
+    "x": 0,
+    "y": 1382,
+    "w": 1440,
+    "h": 1161
+   },
+   "style": {
+    "fontFamily": "sans-serif",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "lineHeight": "normal",
+    "letterSpacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "background": "rgb(241, 234, 217)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "start",
+    "display": "flex",
+    "gap": "10px"
+   }
+  }
+ ],
+ "texts": [
+  {
+   "tag": "a",
+   "name": "Dark",
+   "text": "About",
+   "rect": {
+    "x": 901,
+    "y": 36,
+    "w": 43,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "sans-serif",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "lineHeight": "normal",
+    "letterSpacing": "normal",
+    "color": "rgb(0, 0, 238)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "start",
+    "display": "flex",
+    "gap": "10px"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "About",
+   "rect": {
+    "x": 901,
+    "y": 36,
+    "w": 43,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "lineHeight": "19.2px",
+    "letterSpacing": "normal",
+    "color": "rgb(40, 40, 40)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "center",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "a",
+   "name": "Dark",
+   "text": "Our Hikes",
+   "rect": {
+    "x": 969,
+    "y": 36,
+    "w": 70,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "sans-serif",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "lineHeight": "normal",
+    "letterSpacing": "normal",
+    "color": "rgb(0, 0, 238)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "start",
+    "display": "flex",
+    "gap": "10px"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Our Hikes",
+   "rect": {
+    "x": 969,
+    "y": 36,
+    "w": 70,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "lineHeight": "19.2px",
+    "letterSpacing": "normal",
+    "color": "rgb(40, 40, 40)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "center",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "a",
+   "name": "Dark",
+   "text": "Gallery",
+   "rect": {
+    "x": 1062,
+    "y": 36,
+    "w": 50,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "sans-serif",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "lineHeight": "normal",
+    "letterSpacing": "normal",
+    "color": "rgb(0, 0, 238)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "start",
+    "display": "flex",
+    "gap": "10px"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Gallery",
+   "rect": {
+    "x": 1062,
+    "y": 36,
+    "w": 50,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "lineHeight": "19.2px",
+    "letterSpacing": "normal",
+    "color": "rgb(40, 40, 40)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "center",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "a",
+   "name": "Dark",
+   "text": "Journal",
+   "rect": {
+    "x": 1136,
+    "y": 36,
+    "w": 53,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "sans-serif",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "lineHeight": "normal",
+    "letterSpacing": "normal",
+    "color": "rgb(0, 0, 238)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "start",
+    "display": "flex",
+    "gap": "10px"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Journal",
+   "rect": {
+    "x": 1136,
+    "y": 36,
+    "w": 53,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "lineHeight": "19.2px",
+    "letterSpacing": "normal",
+    "color": "rgb(40, 40, 40)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "center",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "a",
+   "name": "Primary ",
+   "text": "Book Your HikeBook Your Hike",
+   "rect": {
+    "x": 1213,
+    "y": 24,
+    "w": 140,
+    "h": 44
+   },
+   "style": {
+    "fontFamily": "sans-serif",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "lineHeight": "normal",
+    "letterSpacing": "normal",
+    "color": "rgb(0, 0, 238)",
+    "background": "rgb(26, 61, 31)",
+    "borderRadius": "8px",
+    "padding": "0px 16px",
+    "textAlign": "start",
+    "display": "flex",
+    "gap": "10px"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Book Your Hike",
+   "rect": {
+    "x": 1229,
+    "y": 37,
+    "w": 108,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "lineHeight": "19.2px",
+    "letterSpacing": "normal",
+    "color": "rgb(247, 249, 244)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "center",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Book Your Hike",
+   "rect": {
+    "x": 1229,
+    "y": 64,
+    "w": 108,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "lineHeight": "19.2px",
+    "letterSpacing": "normal",
+    "color": "rgb(247, 249, 244)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "center",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Contact us",
+   "rect": {
+    "x": 125,
+    "y": 144,
+    "w": 69,
+    "h": 17
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "14px",
+    "fontWeight": "400",
+    "lineHeight": "16.8px",
+    "letterSpacing": "normal",
+    "color": "rgb(216, 219, 212)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "start",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "h1",
+   "name": "",
+   "text": "Let's plan your next adventure",
+   "rect": {
+    "x": 111,
+    "y": 169,
+    "w": 560,
+    "h": 141
+   },
+   "style": {
+    "fontFamily": "\"Cabinet Grotesk Variable\", \"Cabinet Grotesk Variable Placeholder\", sans-serif",
+    "fontSize": "64px",
+    "fontWeight": "400",
+    "lineHeight": "70.4px",
+    "letterSpacing": "-1.92px",
+    "color": "rgb(247, 249, 244)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "left",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Email",
+   "rect": {
+    "x": 111,
+    "y": 668,
+    "w": 281,
+    "h": 17
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "14px",
+    "fontWeight": "400",
+    "lineHeight": "16.8px",
+    "letterSpacing": "normal",
+    "color": "rgb(247, 249, 244)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "left",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "email@trova.com",
+   "rect": {
+    "x": 111,
+    "y": 693,
+    "w": 281,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "lineHeight": "19.2px",
+    "letterSpacing": "normal",
+    "color": "rgb(216, 219, 212)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "left",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Phone",
+   "rect": {
+    "x": 416,
+    "y": 668,
+    "w": 281,
+    "h": 17
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "14px",
+    "fontWeight": "400",
+    "lineHeight": "16.8px",
+    "letterSpacing": "normal",
+    "color": "rgb(247, 249, 244)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "left",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "+1 (970) 555-0148",
+   "rect": {
+    "x": 416,
+    "y": 693,
+    "w": 281,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "lineHeight": "19.2px",
+    "letterSpacing": "normal",
+    "color": "rgb(216, 219, 212)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "left",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Location",
+   "rect": {
+    "x": 111,
+    "y": 736,
+    "w": 281,
+    "h": 17
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "14px",
+    "fontWeight": "400",
+    "lineHeight": "16.8px",
+    "letterSpacing": "normal",
+    "color": "rgb(247, 249, 244)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "left",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Aspen, Colorado, USA",
+   "rect": {
+    "x": 111,
+    "y": 761,
+    "w": 281,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "lineHeight": "19.2px",
+    "letterSpacing": "normal",
+    "color": "rgb(216, 219, 212)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "left",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Response Time",
+   "rect": {
+    "x": 416,
+    "y": 736,
+    "w": 281,
+    "h": 17
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "14px",
+    "fontWeight": "400",
+    "lineHeight": "16.8px",
+    "letterSpacing": "normal",
+    "color": "rgb(247, 249, 244)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "left",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "We reply within 24 hours",
+   "rect": {
+    "x": 416,
+    "y": 761,
+    "w": 281,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "lineHeight": "19.2px",
+    "letterSpacing": "normal",
+    "color": "rgb(216, 219, 212)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "left",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Full Name",
+   "rect": {
+    "x": 801,
+    "y": 168,
+    "w": 61,
+    "h": 17
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "14px",
+    "fontWeight": "400",
+    "lineHeight": "16.8px",
+    "letterSpacing": "normal",
+    "color": "rgb(40, 40, 40)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "start",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Email",
+   "rect": {
+    "x": 801,
+    "y": 259,
+    "w": 33,
+    "h": 17
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "14px",
+    "fontWeight": "400",
+    "lineHeight": "16.8px",
+    "letterSpacing": "normal",
+    "color": "rgb(40, 40, 40)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "start",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Which hike are you thinking about?",
+   "rect": {
+    "x": 801,
+    "y": 350,
+    "w": 224,
+    "h": 17
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "14px",
+    "fontWeight": "400",
+    "lineHeight": "16.8px",
+    "letterSpacing": "normal",
+    "color": "rgb(40, 40, 40)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "start",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "When are you thinking of going?",
+   "rect": {
+    "x": 801,
+    "y": 447,
+    "w": 208,
+    "h": 17
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "14px",
+    "fontWeight": "400",
+    "lineHeight": "16.8px",
+    "letterSpacing": "normal",
+    "color": "rgb(40, 40, 40)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "start",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Message",
+   "rect": {
+    "x": 801,
+    "y": 538,
+    "w": 55,
+    "h": 17
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "14px",
+    "fontWeight": "400",
+    "lineHeight": "16.8px",
+    "letterSpacing": "normal",
+    "color": "rgb(40, 40, 40)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "start",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "button",
+   "name": "Desktop",
+   "text": "SubmitSubmit",
+   "rect": {
+    "x": 801,
+    "y": 705,
+    "w": 472,
+    "h": 51
+   },
+   "style": {
+    "fontFamily": "sans-serif",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "lineHeight": "normal",
+    "letterSpacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "background": "rgb(26, 61, 31)",
+    "borderRadius": "8px",
+    "padding": "16px 24px",
+    "textAlign": "center",
+    "display": "flex",
+    "gap": "0px"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Submit",
+   "rect": {
+    "x": 1011,
+    "y": 721,
+    "w": 51,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "lineHeight": "19.2px",
+    "letterSpacing": "normal",
+    "color": "rgb(247, 249, 244)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "center",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Submit",
+   "rect": {
+    "x": 1011,
+    "y": 748,
+    "w": 51,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "lineHeight": "19.2px",
+    "letterSpacing": "normal",
+    "color": "rgb(247, 249, 244)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "center",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "FAQ",
+   "rect": {
+    "x": 101,
+    "y": 924,
+    "w": 26,
+    "h": 17
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "14px",
+    "fontWeight": "400",
+    "lineHeight": "16.8px",
+    "letterSpacing": "normal",
+    "color": "rgb(40, 40, 40)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "start",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "h2",
+   "name": "",
+   "text": "Good to know before you go",
+   "rect": {
+    "x": 87,
+    "y": 949,
+    "w": 420,
+    "h": 106
+   },
+   "style": {
+    "fontFamily": "\"Cabinet Grotesk Variable\", \"Cabinet Grotesk Variable Placeholder\", sans-serif",
+    "fontSize": "48px",
+    "fontWeight": "400",
+    "lineHeight": "52.8px",
+    "letterSpacing": "-1.44px",
+    "color": "rgb(40, 40, 40)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "left",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "From packing lists to trail difficulty, here's everything you need to ",
+   "rect": {
+    "x": 87,
+    "y": 1070,
+    "w": 420,
+    "h": 45
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "letterSpacing": "normal",
+    "color": "rgb(92, 92, 88)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "start",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "a",
+   "name": "Primary ",
+   "text": "Get in touchGet in touch",
+   "rect": {
+    "x": 87,
+    "y": 1131,
+    "w": 122,
+    "h": 44
+   },
+   "style": {
+    "fontFamily": "sans-serif",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "lineHeight": "normal",
+    "letterSpacing": "normal",
+    "color": "rgb(0, 0, 238)",
+    "background": "rgb(26, 61, 31)",
+    "borderRadius": "8px",
+    "padding": "0px 16px",
+    "textAlign": "start",
+    "display": "flex",
+    "gap": "10px"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Get in touch",
+   "rect": {
+    "x": 103,
+    "y": 1144,
+    "w": 90,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "lineHeight": "19.2px",
+    "letterSpacing": "normal",
+    "color": "rgb(247, 249, 244)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "center",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Get in touch",
+   "rect": {
+    "x": 103,
+    "y": 1171,
+    "w": 90,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "lineHeight": "19.2px",
+    "letterSpacing": "normal",
+    "color": "rgb(247, 249, 244)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "center",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "If you can walk a few hours on uneven ground, you're ready.",
+   "rect": {
+    "x": 571,
+    "y": 976,
+    "w": 766,
+    "h": 22
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "letterSpacing": "normal",
+    "color": "rgb(92, 92, 88)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "start",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Usually 6 to 8— small enough to stay quiet.",
+   "rect": {
+    "x": 571,
+    "y": 1064,
+    "w": 766,
+    "h": 22
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "letterSpacing": "normal",
+    "color": "rgb(92, 92, 88)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "start",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "A packing list goes out once you book, built around the season ahead.",
+   "rect": {
+    "x": 571,
+    "y": 1141,
+    "w": 766,
+    "h": 22
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "letterSpacing": "normal",
+    "color": "rgb(92, 92, 88)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "start",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Guides know the alternate routes and adjust the day.",
+   "rect": {
+    "x": 571,
+    "y": 1218,
+    "w": 766,
+    "h": 22
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "letterSpacing": "normal",
+    "color": "rgb(92, 92, 88)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "start",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Yes, up to 14 days before departure, no extra cost.",
+   "rect": {
+    "x": 571,
+    "y": 1295,
+    "w": 766,
+    "h": 22
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "letterSpacing": "normal",
+    "color": "rgb(92, 92, 88)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "start",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "h2",
+   "name": "",
+   "text": "Your next adventure starts here",
+   "rect": {
+    "x": 510,
+    "y": 1682,
+    "w": 420,
+    "h": 106
+   },
+   "style": {
+    "fontFamily": "\"Cabinet Grotesk Variable\", \"Cabinet Grotesk Variable Placeholder\", sans-serif",
+    "fontSize": "48px",
+    "fontWeight": "400",
+    "lineHeight": "52.8px",
+    "letterSpacing": "-1.44px",
+    "color": "rgb(247, 249, 244)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "center",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Explore remote landscapes, local stories, and unforgettable moments wa",
+   "rect": {
+    "x": 510,
+    "y": 1804,
+    "w": 420,
+    "h": 45
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "letterSpacing": "normal",
+    "color": "rgb(247, 249, 244)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "center",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "a",
+   "name": "Secondry ",
+   "text": "Explore HikesExplore Hikes",
+   "rect": {
+    "x": 656,
+    "y": 1865,
+    "w": 129,
+    "h": 44
+   },
+   "style": {
+    "fontFamily": "sans-serif",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "lineHeight": "normal",
+    "letterSpacing": "normal",
+    "color": "rgb(0, 0, 238)",
+    "background": "rgb(241, 234, 217)",
+    "borderRadius": "8px",
+    "padding": "0px 16px",
+    "textAlign": "start",
+    "display": "flex",
+    "gap": "10px"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Explore Hikes",
+   "rect": {
+    "x": 672,
+    "y": 1877,
+    "w": 97,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "lineHeight": "19.2px",
+    "letterSpacing": "normal",
+    "color": "rgb(40, 40, 40)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "center",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Explore Hikes",
+   "rect": {
+    "x": 672,
+    "y": 1905,
+    "w": 97,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "lineHeight": "19.2px",
+    "letterSpacing": "normal",
+    "color": "rgb(40, 40, 40)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "center",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Guided hikes, breathtaking trails, and unforgettable moments—all thoug",
+   "rect": {
+    "x": 87,
+    "y": 2091,
+    "w": 520,
+    "h": 45
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "22.4px",
+    "letterSpacing": "normal",
+    "color": "rgb(216, 219, 212)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "left",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Navigation",
+   "rect": {
+    "x": 841,
+    "y": 2029,
+    "w": 65,
+    "h": 17
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "14px",
+    "fontWeight": "400",
+    "lineHeight": "16.8px",
+    "letterSpacing": "normal",
+    "color": "rgb(216, 219, 212)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "start",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "a",
+   "name": "Light",
+   "text": "Home",
+   "rect": {
+    "x": 841,
+    "y": 2062,
+    "w": 43,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "sans-serif",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "lineHeight": "normal",
+    "letterSpacing": "normal",
+    "color": "rgb(0, 0, 238)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "start",
+    "display": "flex",
+    "gap": "10px"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Home",
+   "rect": {
+    "x": 841,
+    "y": 2062,
+    "w": 43,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "lineHeight": "19.2px",
+    "letterSpacing": "normal",
+    "color": "rgb(247, 249, 244)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "center",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "a",
+   "name": "Light",
+   "text": "About",
+   "rect": {
+    "x": 841,
+    "y": 2097,
+    "w": 43,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "sans-serif",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "lineHeight": "normal",
+    "letterSpacing": "normal",
+    "color": "rgb(0, 0, 238)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "start",
+    "display": "flex",
+    "gap": "10px"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "About",
+   "rect": {
+    "x": 841,
+    "y": 2097,
+    "w": 43,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "lineHeight": "19.2px",
+    "letterSpacing": "normal",
+    "color": "rgb(247, 249, 244)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "center",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "a",
+   "name": "Light",
+   "text": "Contact",
+   "rect": {
+    "x": 841,
+    "y": 2132,
+    "w": 57,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "sans-serif",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "lineHeight": "normal",
+    "letterSpacing": "normal",
+    "color": "rgb(0, 0, 238)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "start",
+    "display": "flex",
+    "gap": "10px"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Contact",
+   "rect": {
+    "x": 841,
+    "y": 2132,
+    "w": 57,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "lineHeight": "19.2px",
+    "letterSpacing": "normal",
+    "color": "rgb(247, 249, 244)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "center",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "CMS",
+   "rect": {
+    "x": 1017,
+    "y": 2029,
+    "w": 31,
+    "h": 17
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "14px",
+    "fontWeight": "400",
+    "lineHeight": "16.8px",
+    "letterSpacing": "normal",
+    "color": "rgb(216, 219, 212)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "start",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "a",
+   "name": "Light",
+   "text": "Hikes",
+   "rect": {
+    "x": 1017,
+    "y": 2062,
+    "w": 39,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "sans-serif",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "lineHeight": "normal",
+    "letterSpacing": "normal",
+    "color": "rgb(0, 0, 238)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "start",
+    "display": "flex",
+    "gap": "10px"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Hikes",
+   "rect": {
+    "x": 1017,
+    "y": 2062,
+    "w": 39,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "lineHeight": "19.2px",
+    "letterSpacing": "normal",
+    "color": "rgb(247, 249, 244)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "center",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "a",
+   "name": "Light",
+   "text": "Gallery",
+   "rect": {
+    "x": 1017,
+    "y": 2097,
+    "w": 50,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "sans-serif",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "lineHeight": "normal",
+    "letterSpacing": "normal",
+    "color": "rgb(0, 0, 238)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "start",
+    "display": "flex",
+    "gap": "10px"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Gallery",
+   "rect": {
+    "x": 1017,
+    "y": 2097,
+    "w": 50,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "lineHeight": "19.2px",
+    "letterSpacing": "normal",
+    "color": "rgb(247, 249, 244)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "center",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "a",
+   "name": "Light",
+   "text": "Journal",
+   "rect": {
+    "x": 1017,
+    "y": 2132,
+    "w": 53,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "sans-serif",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "lineHeight": "normal",
+    "letterSpacing": "normal",
+    "color": "rgb(0, 0, 238)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "start",
+    "display": "flex",
+    "gap": "10px"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Journal",
+   "rect": {
+    "x": 1017,
+    "y": 2132,
+    "w": 53,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "lineHeight": "19.2px",
+    "letterSpacing": "normal",
+    "color": "rgb(247, 249, 244)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "center",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Legal page",
+   "rect": {
+    "x": 1193,
+    "y": 2029,
+    "w": 67,
+    "h": 17
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "14px",
+    "fontWeight": "400",
+    "lineHeight": "16.8px",
+    "letterSpacing": "normal",
+    "color": "rgb(216, 219, 212)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "start",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "a",
+   "name": "Light",
+   "text": "Privacy Policy",
+   "rect": {
+    "x": 1193,
+    "y": 2062,
+    "w": 98,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "sans-serif",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "lineHeight": "normal",
+    "letterSpacing": "normal",
+    "color": "rgb(0, 0, 238)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "start",
+    "display": "flex",
+    "gap": "10px"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Privacy Policy",
+   "rect": {
+    "x": 1193,
+    "y": 2062,
+    "w": 98,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "lineHeight": "19.2px",
+    "letterSpacing": "normal",
+    "color": "rgb(247, 249, 244)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "center",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "a",
+   "name": "Light",
+   "text": "Terms Of Service",
+   "rect": {
+    "x": 1193,
+    "y": 2097,
+    "w": 122,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "sans-serif",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "lineHeight": "normal",
+    "letterSpacing": "normal",
+    "color": "rgb(0, 0, 238)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "start",
+    "display": "flex",
+    "gap": "10px"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "Terms Of Service",
+   "rect": {
+    "x": 1193,
+    "y": 2097,
+    "w": 122,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "lineHeight": "19.2px",
+    "letterSpacing": "normal",
+    "color": "rgb(247, 249, 244)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "center",
+    "display": "block",
+    "gap": "normal"
+   }
+  },
+  {
+   "tag": "a",
+   "name": "Light",
+   "text": "404",
+   "rect": {
+    "x": 1193,
+    "y": 2132,
+    "w": 30,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "sans-serif",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "lineHeight": "normal",
+    "letterSpacing": "normal",
+    "color": "rgb(0, 0, 238)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "start",
+    "display": "flex",
+    "gap": "10px"
+   }
+  },
+  {
+   "tag": "p",
+   "name": "",
+   "text": "404",
+   "rect": {
+    "x": 1193,
+    "y": 2132,
+    "w": 30,
+    "h": 19
+   },
+   "style": {
+    "fontFamily": "\"Inter Display\", \"Inter Display Placeholder\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "lineHeight": "19.2px",
+    "letterSpacing": "normal",
+    "color": "rgb(247, 249, 244)",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "textAlign": "center",
+    "display": "block",
+    "gap": "normal"
+   }
+  }
+ ],
+ "bodyBg": "rgb(241, 234, 217)"
+}

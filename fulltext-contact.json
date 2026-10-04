@@ -1,0 +1,105 @@
+{
+ "long": [
+  {
+   "tag": "p",
+   "x": 87,
+   "y": 1070,
+   "w": 420,
+   "color": "rgb(92, 92, 88)",
+   "ta": "start",
+   "t": "From packing lists to trail difficulty, here's everything you need to feel prepared."
+  },
+  {
+   "tag": "p",
+   "x": 571,
+   "y": 976,
+   "w": 766,
+   "color": "rgb(92, 92, 88)",
+   "ta": "start",
+   "t": "If you can walk a few hours on uneven ground, you're ready."
+  },
+  {
+   "tag": "p",
+   "x": 571,
+   "y": 1141,
+   "w": 766,
+   "color": "rgb(92, 92, 88)",
+   "ta": "start",
+   "t": "A packing list goes out once you book, built around the season ahead."
+  },
+  {
+   "tag": "p",
+   "x": 510,
+   "y": 1804,
+   "w": 420,
+   "color": "rgb(247, 249, 244)",
+   "ta": "center",
+   "t": "Explore remote landscapes, local stories, and unforgettable moments waiting beyond the next ridge."
+  },
+  {
+   "tag": "p",
+   "x": 87,
+   "y": 2091,
+   "w": 520,
+   "color": "rgb(216, 219, 212)",
+   "ta": "left",
+   "t": "Guided hikes, breathtaking trails, and unforgettable moments—all thoughtfully crafted in one place."
+  }
+ ],
+ "grads": [
+  {
+   "y": 120,
+   "w": 1266,
+   "h": 684,
+   "bg": "linear-gradient(rgba(10, 18, 12, 0.2) 0%, rgba(10, 18, 12, 0) 37%, rgba(10, 18, 12, 0) 65%, rgba(6, 12, 8, 0.56) 100%)"
+  },
+  {
+   "y": 1382,
+   "w": 1440,
+   "h": 1161,
+   "bg": "linear-gradient(rgba(40, 40, 40, 0) 0%, rgba(40, 40, 40, 0.6) 50%)"
+  }
+ ],
+ "imgs": [
+  {
+   "src": "http://localhost:8091/assets/logo.png",
+   "x": 87,
+   "y": 25,
+   "w": 84,
+   "h": 42,
+   "alt": "API Touch"
+  },
+  {
+   "src": "https://framerusercontent.com/images/SKEOxyccXWzDnPBCqes8OKxWFE.jpg?width=1344&height=768",
+   "x": 87,
+   "y": 120,
+   "w": 1266,
+   "h": 684,
+   "alt": "Misty forest trail background for the AP"
+  },
+  {
+   "src": "https://framerusercontent.com/images/tbrfdtrrgntbKXktgPNJCVV5rI.png?width=1672&height=941",
+   "x": 0,
+   "y": 1382,
+   "w": 1440,
+   "h": 1161,
+   "alt": "Scenic mountain trail background in the "
+  },
+  {
+   "src": "http://localhost:8091/assets/logo-white.png",
+   "x": 87,
+   "y": 2029,
+   "w": 92,
+   "h": 46,
+   "alt": "API Touch"
+  },
+  {
+   "src": "http://localhost:8091/assets/logo-white.png",
+   "x": 570,
+   "y": 2260,
+   "w": 300,
+   "h": 150,
+   "alt": "API Touch"
+  }
+ ]
+}

@@ -1,0 +1,256 @@
+[
+ {
+  "i": 0,
+  "name": "Desktop",
+  "tag": "header",
+  "y": 8,
+  "h": 76,
+  "imgs": [
+   {
+    "src": "http://localhost:8091/assets/logo-white.png",
+    "w": 440,
+    "h": 220,
+    "alt": "API Touch"
+   }
+  ]
+ },
+ {
+  "i": 1,
+  "name": "Hero section",
+  "tag": "section",
+  "y": 0,
+  "h": 900,
+  "imgs": [
+   {
+    "src": "https://framerusercontent.com/images/PnKFFZTDtprKUgpnJfcXRmdKbw.png?width=1672&height=941",
+    "w": 1424,
+    "h": 801,
+    "alt": "Hiker overlooking a mountain trail, representing API Touch g"
+   }
+  ]
+ },
+ {
+  "i": 2,
+  "name": "About us",
+  "tag": "section",
+  "y": 900,
+  "h": 720,
+  "imgs": [
+   {
+    "src": "https://framerusercontent.com/images/JlclD7cUSGbFs5da7U2YZ0Jfo.png?scale-down-to=1024&width=800&height=1200",
+    "w": 406,
+    "h": 609,
+    "alt": "Scenic travel landscape used to introduce API Touch’s curate"
+   },
+   {
+    "src": "https://framerusercontent.com/images/STbQ0TTQSrsZiFejlw0ISo8f8Cg.png?scale-down-to=1024&width=992&height=1200",
+    "w": 128,
+    "h": 154,
+    "alt": "Young woman with wavy hair looking away, green building back"
+   },
+   {
+    "src": "https://framerusercontent.com/images/kyESw1RHyMdsAjTFdft5SBan1g.png?scale-down-to=512&width=1200&height=800",
+    "w": 128,
+    "h": 85,
+    "alt": "Young woman with wavy hair looking away, green building back"
+   },
+   {
+    "src": "https://framerusercontent.com/images/VrrJ1dN3SN22nkPBDkuTXuLC8.png?scale-down-to=1024&width=992&height=1200",
+    "w": 128,
+    "h": 154,
+    "alt": "Young woman with wavy hair looking away, green building back"
+   }
+  ]
+ },
+ {
+  "i": 3,
+  "name": "Hikes",
+  "tag": "section",
+  "y": 1620,
+  "h": 898,
+  "imgs": [
+   {
+    "src": "https://picsum.photos/seed/apitouch-1WphCNug7C7HhqPwXrQTT0M2KE97bd/900/700",
+    "w": 900,
+    "h": 700,
+    "alt": "Annapurna Base Camp hiking gallery image showing scenic trai"
+   },
+   {
+    "src": "https://picsum.photos/seed/apitouch-1WphCNug7C7HhqPwXrQTT0M2KE97bd/900/700",
+    "w": 900,
+    "h": 700,
+    "alt": "Inca Trail to Machu Picchu guided hiking trip hero image for"
+   },
+   {
+    "src": "https://picsum.photos/seed/apitouch-1WphCNug7C7HhqPwXrQTT0M2KE97bd/900/700",
+    "w": 900,
+    "h": 700,
+    "alt": "Cinque Terre Coastal Trail guided hiking trip hero image for"
+   },
+   {
+    "src": "https://picsum.photos/seed/apitouch-1WphCNug7C7HhqPwXrQTT0M2KE97bd/900/700",
+    "w": 900,
+    "h": 700,
+    "alt": "Mount Kilimanjaro guided hiking trip hero image for API Touc"
+   }
+  ]
+ },
+ {
+  "i": 4,
+  "name": "What's included",
+  "tag": "section",
+  "y": 2518,
+  "h": 674,
+  "imgs": [
+   {
+    "src": "https://framerusercontent.com/images/b8N0lZkrOvU8l5k66vVr97WwF6M.png?scale-down-to=1024&width=1672&height=941",
+    "w": 625,
+    "h": 351,
+    "alt": ""
+   },
+   {
+    "src": "https://framerusercontent.com/images/3GCyVYdlNAmCVUUaBGEwCGt3LYc.png?scale-down-to=1024&width=1672&height=941",
+    "w": 625,
+    "h": 351,
+    "alt": "Featured mountain hiking trip card for API Touch adventure t"
+   }
+  ]
+ },
+ {
+  "i": 5,
+  "name": "Experience",
+  "tag": "section",
+  "y": 3193,
+  "h": 964,
+  "imgs": [
+   {
+    "src": "https://picsum.photos/seed/apitouch-1WphCNug7C7HhqPwXrQTT0M2KE97bd/900/700",
+    "w": 900,
+    "h": 700,
+    "alt": ""
+   },
+   {
+    "src": "https://picsum.photos/seed/apitouch-1WphCNug7C7HhqPwXrQTT0M2KE97bd/900/700",
+    "w": 900,
+    "h": 700,
+    "alt": ""
+   },
+   {
+    "src": "https://picsum.photos/seed/apitouch-1WphCNug7C7HhqPwXrQTT0M2KE97bd/900/700",
+    "w": 900,
+    "h": 700,
+    "alt": ""
+   },
+   {
+    "src": "https://picsum.photos/seed/apitouch-1WphCNug7C7HhqPwXrQTT0M2KE97bd/900/700",
+    "w": 900,
+    "h": 700,
+    "alt": ""
+   }
+  ]
+ },
+ {
+  "i": 6,
+  "name": "Our guide",
+  "tag": "section",
+  "y": 4157,
+  "h": 611,
+  "imgs": [
+   {
+    "src": "https://framerusercontent.com/images/9LRjdvq7qodL0yYahLpqgygYuk.png?scale-down-to=1024&width=1254&height=1254",
+    "w": 609,
+    "h": 609,
+    "alt": "API Touch travel guide preview showing curated hiking and ad"
+   }
+  ]
+ },
+ {
+  "i": 7,
+  "name": "How it's work",
+  "tag": "section",
+  "y": 4768,
+  "h": 704,
+  "imgs": []
+ },
+ {
+  "i": 8,
+  "name": "Testimonial",
+  "tag": "section",
+  "y": 5472,
+  "h": 794,
+  "imgs": [
+   {
+    "src": "https://framerusercontent.com/images/Lb7a9F2Y442x6WewlTOqDC6JVF0.png?scale-down-to=512&width=1445&height=962",
+    "w": 479,
+    "h": 319,
+    "alt": ""
+   },
+   {
+    "src": "https://framerusercontent.com/images/Tb2IyWFVhCYJMmLVbyfHF949LoQ.png?scale-down-to=512&width=1448&height=1086",
+    "w": 41,
+    "h": 30,
+    "alt": ""
+   },
+   {
+    "src": "https://framerusercontent.com/images/rminNLvD1Ra33ajEBBIbdkyDw.png?scale-down-to=512&width=1448&height=1086",
+    "w": 41,
+    "h": 30,
+    "alt": "Portrait of a API Touch guest sharing an outdoor adventure t"
+   }
+  ]
+ },
+ {
+  "i": 9,
+  "name": "Travel Journal",
+  "tag": "section",
+  "y": 6266,
+  "h": 778,
+  "imgs": [
+   {
+    "src": "https://picsum.photos/seed/apitouch-1WphCNug7C7HhqPwXrQTT0M2KE97bd/900/700",
+    "w": 900,
+    "h": 700,
+    "alt": "Guide reviewing a paper map with a small hiking group before"
+   },
+   {
+    "src": "https://picsum.photos/seed/apitouch-1WphCNug7C7HhqPwXrQTT0M2KE97bd/900/700",
+    "w": 900,
+    "h": 700,
+    "alt": "Seasonal shift along a familiar path on an API Touch guided "
+   },
+   {
+    "src": "https://picsum.photos/seed/apitouch-1WphCNug7C7HhqPwXrQTT0M2KE97bd/900/700",
+    "w": 900,
+    "h": 700,
+    "alt": "Guide safety gear including rope and first aid kit for API T"
+   }
+  ]
+ },
+ {
+  "i": 10,
+  "name": "Desktop",
+  "tag": "footer",
+  "y": 7563,
+  "h": 1161,
+  "imgs": [
+   {
+    "src": "https://framerusercontent.com/images/tbrfdtrrgntbKXktgPNJCVV5rI.png?width=1672&height=941",
+    "w": 1440,
+    "h": 810,
+    "alt": "Scenic mountain trail background in the API Touch footer for"
+   },
+   {
+    "src": "http://localhost:8091/assets/logo-white.png",
+    "w": 440,
+    "h": 220,
+    "alt": "API Touch"
+   },
+   {
+    "src": "http://localhost:8091/assets/logo-white.png",
+    "w": 440,
+    "h": 220,
+    "alt": "API Touch"
+   }
+  ]
+ }
+]
