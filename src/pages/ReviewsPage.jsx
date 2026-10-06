@@ -36,8 +36,8 @@ export default function ReviewsPage() {
             <div className="grad-quote absolute inset-0" />
             <div className="absolute inset-0 flex flex-col justify-end px-6 pt-6 pb-[27px]">
               <h4 className="t-h4 text-mist">{FEATURED_QUOTE.quote}</h4>
-              <p className="mt-4 font-interd text-[16px] leading-[22.4px] text-cream">{FEATURED_QUOTE.name}</p>
-              <Location color="var(--color-secondary)">{FEATURED_QUOTE.trip}</Location>
+              <p className="mt-4 font-body text-[16px] leading-[22.4px] text-cream">{FEATURED_QUOTE.name}</p>
+              <Location color="var(--color-mist)">{FEATURED_QUOTE.trip}</Location>
             </div>
           </div>
 
@@ -50,7 +50,7 @@ export default function ReviewsPage() {
                 <div className="mt-6 flex gap-[10px]">
                   <img src={r.avatar} alt="" className="h-[41px] w-[41px] shrink-0 rounded-md object-cover" />
                   <div>
-                    <p className="font-interd text-[16px] leading-[22.4px] text-ink">{r.name}</p>
+                    <p className="font-body text-[16px] leading-[22.4px] text-ink">{r.name}</p>
                     <Location color="var(--color-smoke)">{r.trip}</Location>
                   </div>
                 </div>

@@ -90,7 +90,7 @@ export function FaqList({ className = "w-[798px] max-[809.98px]:w-full" }) {
   );
 }
 
-export default function Faq() {
+export default function Faq({ showCta = true }) {
   const { badge, title, body, cta, ctaHref } = FAQ_SECTION;
 
   return (
@@ -107,9 +107,13 @@ export default function Faq() {
             ))}
           </h2>
           <p className="t-body mt-4">{body}</p>
-          <a href={ctaHref} className="btn btn-dark mt-4 w-[122px]">
-            {cta}
-          </a>
+          {/* the contact page turns this off — the CTA links back to /contact,
+              so on that page it would only reload the page you're already on */}
+          {showCta ? (
+            <a href={ctaHref} className="btn btn-dark mt-4 w-[122px]">
+              {cta}
+            </a>
+          ) : null}
           <a href="/faq" className="t-link mt-3 block text-ink underline underline-offset-4">
             Read all FAQs
           </a>

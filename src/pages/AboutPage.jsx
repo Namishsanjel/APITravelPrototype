@@ -109,7 +109,7 @@ export default function AboutPage() {
                 <img src={g.image} alt={g.name} className="absolute inset-0 h-full w-full object-cover" />
                 <ImgBlur />
                 <div className="absolute inset-0 z-10 flex flex-col justify-end gap-1 p-4">
-                  <Eyebrow className="capitalize" color="var(--color-secondary)">
+                  <Eyebrow className="capitalize" color="var(--color-mist)">
                     {g.role}
                   </Eyebrow>
                   <h4 className="t-h4 text-mist">{g.name}</h4>

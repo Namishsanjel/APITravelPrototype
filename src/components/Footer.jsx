@@ -18,7 +18,7 @@ export default function Footer() {
               </span>
             ))}
           </h2>
-          <p className="mx-auto mt-4 w-[420px] font-interd text-[16px] leading-[22.4px] text-mist [text-wrap:balance] [will-change:transform] max-[809.98px]:w-full">
+          <p className="mx-auto mt-4 w-[420px] font-body text-[16px] leading-[22.4px] text-mist [text-wrap:balance] [will-change:transform] max-[809.98px]:w-full">
             {body}
           </p>
           <a href={ctaHref} className="btn btn-cream mt-4 w-[129px]">
@@ -35,22 +35,38 @@ export default function Footer() {
               className="block h-[46px] w-[92px] object-contain max-[809.98px]:h-[40px] max-[809.98px]:w-[80px]"
             />
             <p className="t-body mt-4 text-sage [will-change:transform]">{subline}</p>
-            <p className="mt-4 font-interd text-[16px] leading-[16px] text-mist">{copyright}</p>
+            <p className="mt-4 font-body text-[16px] leading-[16px] text-mist">{copyright}</p>
           </div>
 
-          <div className="flex w-[512px] gap-4 max-[809.98px]:w-full max-[809.98px]:flex-wrap max-[809.98px]:gap-12">
+          {/* 4 columns x 160px + 3 x 16px gap */}
+          <div className="flex w-[688px] gap-4 max-[809.98px]:w-full max-[809.98px]:flex-wrap max-[809.98px]:gap-12">
             {columns.map((col) => (
               <div
                 key={col.label}
                 className="w-[160px] max-[809.98px]:w-auto max-[809.98px]:[flex:1_1_155px]"
               >
-                <p className="t-eyebrow text-secondary">{col.label}</p>
+                <p className="t-eyebrow text-mist">{col.label}</p>
                 <div className="mt-4 flex flex-col gap-4">
-                  {col.links.map((l) => (
-                    <a key={l.label} href={l.href} className="t-link text-mist">
-                      {l.label}
-                    </a>
-                  ))}
+                  {col.links.map((l) =>
+                    /* no href yet — kept in the tab order and announced as a
+                       disabled link, but it navigates nowhere */
+                    l.href ? (
+                      <a key={l.label} href={l.href} className="t-link text-mist">
+                        {l.label}
+                      </a>
+                    ) : (
+                      <a
+                        key={l.label}
+                        role="link"
+                        aria-disabled="true"
+                        tabIndex={0}
+                        title={`${l.label} — coming soon`}
+                        className="t-link text-mist/60"
+                      >
+                        {l.label}
+                      </a>
+                    ),
+                  )}
                 </div>
               </div>
             ))}

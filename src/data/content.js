@@ -127,9 +127,12 @@ export const PAGES = {
   },
 };
 
+// `menu: "destinations"` marks the one entry that opens the nav mega-menu
+// instead of navigating (the panel itself links through to the page).
 export const NAV_LINKS = [
   { label: "About", href: "/about" },
-  { label: "Our Tours", href: "/tours" },
+  { label: "Destinations", href: "/destinations", menu: "destinations" },
+  { label: "Our Package", href: "/tours", menu: "packages" },
   { label: "Gallery", href: "/gallery" },
   { label: "Blog", href: "/blog" },
 ];
@@ -198,7 +201,7 @@ export const HIKES = [
     chips: ["Tough", "6 Days"],
     title: "Mount Kilimanjaro",
     href: "/tours/mount-kilimanjaro",
-    image: IMG.cms,
+    image: "/img/mount-kilimanjaro.jpg",
     alt: "Mount Kilimanjaro guided hiking trip her",
   },
 ];
@@ -422,6 +425,13 @@ export const FOOTER = {
     { label: "Legal page", links: [
       { label: "Privacy Policy", href: "/privacy-policy" },
       { label: "Terms Of Service", href: "/terms-of-service" },
+    ] },
+    // `href: null` marks a link whose destination does not exist yet — the
+    // footer renders it as a disabled placeholder instead of a live anchor.
+    { label: "Social", links: [
+      { label: "Facebook", href: null },
+      { label: "Instagram", href: null },
+      { label: "YouTube", href: null },
     ] },
   ],
 };

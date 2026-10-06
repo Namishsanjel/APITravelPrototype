@@ -47,7 +47,7 @@ export default function Contact() {
         <div className="contact-grid relative">
           <div className="contact-left">
             <div className="contact-top">
-              <Eyebrow color="var(--color-secondary)">{badge}</Eyebrow>
+              <Eyebrow color="var(--color-mist)">{badge}</Eyebrow>
               <h1 className="t-h1c mt-2">
                 {title.map((line, i) => (
                   <Reveal

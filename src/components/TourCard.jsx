@@ -29,8 +29,8 @@ export default function TourCard({ tour, index = null }) {
             <h3 className="t-h3l text-mist">{tour.title}</h3>
             <a href={tour.href} className="btn btn-dark btn-roll w-[113px]">
               <span className="roll">
-                <span>learn more</span>
-                <span aria-hidden="true">learn more</span>
+                <span>Learn More</span>
+                <span aria-hidden="true">Learn More</span>
               </span>
             </a>
           </div>

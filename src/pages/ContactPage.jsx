@@ -19,7 +19,7 @@ export default function ContactPage() {
       <Navbar variant="dark" />
       <main>
         <Contact />
-        <Faq />
+        <Faq showCta={false} />
       </main>
       <Footer />
     </>

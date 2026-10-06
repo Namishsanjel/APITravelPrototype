@@ -33,8 +33,8 @@ function HikeCard({ hike, className = "", index = null }) {
             <h3 className="t-h3l text-mist">{hike.title}</h3>
             <a href={hike.href} className="btn btn-dark btn-roll w-[113px]">
               <span className="roll">
-                <span>learn more</span>
-                <span aria-hidden="true">learn more</span>
+                <span>Learn More</span>
+                <span aria-hidden="true">Learn More</span>
               </span>
             </a>
           </div>
@@ -62,7 +62,7 @@ function FilterRow({ label, options, value, onChange, surface = "bg-mist" }) {
                 on ? "bg-primary" : `${surface} hover:bg-secondary`
               }`}
             >
-              <p className={`t-link ${on ? "text-mist" : "text-smoke group-hover:text-primary"}`}>{o}</p>
+              <p className={`t-link ${on ? "text-mist" : "text-smoke group-hover:text-mist"}`}>{o}</p>
             </button>
           );
         })}
@@ -104,15 +104,15 @@ function FilterMenu({ groups, onReset }) {
         onClick={() => setOpen((o) => !o)}
         aria-expanded={open}
         aria-haspopup="true"
-        className="flex items-center gap-3 rounded-lg bg-mist px-4 py-3 transition-colors duration-200 hover:bg-secondary"
+        className="group flex items-center gap-3 rounded-lg bg-mist px-4 py-3 transition-colors duration-200 hover:bg-secondary"
       >
-        <span className="t-link text-ink">filters</span>
+        <span className="t-link text-ink group-hover:text-mist">filters</span>
         {active > 0 ? (
           <span className="t-eyebrow flex h-6 min-w-6 items-center justify-center rounded-full bg-primary px-2 text-mist">
             {active}
           </span>
         ) : null}
-        <span className={`block transition-transform duration-300 ${open ? "rotate-90" : ""}`}>
+        <span className={`block text-ink transition-transform duration-300 group-hover:text-mist ${open ? "rotate-90" : ""}`}>
           <Icon id="3166100823" size={10} />
         </span>
       </button>

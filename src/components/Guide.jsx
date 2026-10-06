@@ -36,7 +36,7 @@ export default function Guide() {
         <div className="relative h-[491px] w-[609px] overflow-hidden rounded-lg">
           <img src={image} alt={imageAlt} className="absolute inset-0 h-full w-full object-cover" />
           <div className="absolute inset-x-0 bottom-0 p-4">
-            <Eyebrow color="var(--color-secondary)">{role}</Eyebrow>
+            <Eyebrow color="var(--color-mist)">{role}</Eyebrow>
             <h4 className="t-h4 mt-1 text-mist">{name}</h4>
           </div>
         </div>

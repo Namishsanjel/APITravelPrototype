@@ -22,7 +22,7 @@ export default function Hero() {
           <div>
             {/* copy arrives late — the original's load delays run 0.8 → 1.2s */}
             <Reveal effect="up" delay={700}>
-              <Eyebrow color="var(--color-secondary)">{HERO.eyebrow}</Eyebrow>
+              <Eyebrow color="var(--color-mist)">{HERO.eyebrow}</Eyebrow>
             </Reveal>
             <Reveal effect="up" delay={800}>
               <h1 className="t-h1 mt-2 w-[700px]">{HERO.title}</h1>
@@ -39,7 +39,7 @@ export default function Hero() {
             as="p"
             effect="up"
             delay={1200}
-            className="w-[420px] text-right font-inter text-[20px] leading-[28px] text-sage"
+            className="w-[420px] text-right font-body text-[20px] leading-[28px] text-sage"
           >
             {HERO.sub}
           </Reveal>

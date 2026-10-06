@@ -27,7 +27,7 @@ export default function About() {
                 className="flex h-[60px] items-center justify-between border-b border-smoke"
               >
                 <span className="t-link text-smoke">{s.label}</span>
-                <span className="font-interd text-[20px] leading-[28px] font-medium text-ink">
+                <span className="font-body text-[20px] leading-[28px] font-medium text-ink">
                   {s.value}
                 </span>
               </div>

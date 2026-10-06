@@ -26,8 +26,8 @@ function HikeCard({ hike, className = "", big = false, index = null }) {
             <h3 className={`${big ? "t-h3l" : "t-h3s"} text-mist`}>{hike.title}</h3>
             <span className="btn btn-dark btn-roll mt-4 w-[113px]">
               <span className="roll">
-                <span>learn more</span>
-                <span aria-hidden="true">learn more</span>
+                <span>Learn More</span>
+                <span aria-hidden="true">Learn More</span>
               </span>
             </span>
           </div>

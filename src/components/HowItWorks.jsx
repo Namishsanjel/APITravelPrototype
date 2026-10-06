@@ -27,7 +27,7 @@ export default function HowItWorks() {
         <div className="flex w-[798px] flex-col gap-6">
           {STEPS.map((s) => (
             <div key={s.n} className="flex h-[128px] gap-9 rounded-lg bg-mist p-6">
-              <span className="w-[36px] shrink-0 pt-1 text-center font-interd text-[20px] leading-[28px] font-medium text-ink">
+              <span className="w-[36px] shrink-0 pt-1 text-center font-body text-[20px] leading-[28px] font-medium text-ink">
                 {s.n}
               </span>
               <div className="flex-1">

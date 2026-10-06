@@ -4,20 +4,19 @@
 @theme {
   /* brand palette */
   --color-primary: #004a75; /* blue — buttons, active states, dark panels */
-  --color-secondary: #f7ab22; /* yellow — hovers and accent labels */
+  --color-secondary: #16719e; /* lighter blue — hovers and accent labels */
 
-  --color-cream: #fffdd0; /* Cream — the page background */
+  --color-cream: #f7e7ce; /* Champagne — the page background */
   --color-mist: #f7f9f4;
   --color-ink: #282828;
   --color-smoke: #5c5c58;
   --color-sage: #d8dbd4;
   --color-e4: #e4e8de;
 
-  --font-cg: "Cabinet Grotesk", sans-serif;
-  --font-cgv: "Cabinet Grotesk Variable", sans-serif;
-  --font-clash: "Clash Grotesk", sans-serif;
-  --font-inter: "Inter", sans-serif;
-  --font-interd: "Inter Display", sans-serif;
+  /* headings on the display face (Montserrat), everything else on the text
+     face (EB Garamond) — both variable, so real weights are available */
+  --font-display: "Montserrat", sans-serif;
+  --font-body: "EB Garamond", serif;
 }
 
 @layer base {
@@ -29,7 +28,7 @@
     margin: 0;
     background: var(--color-cream);
     color: var(--color-ink);
-    font-family: var(--font-interd);
+    font-family: var(--font-body);
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
@@ -49,49 +48,49 @@
     padding-block: 60px;
   }
 
-  /* ---------- typography ---------- */
+  /* ---------- typography ----------
+     Headings (t-h1 … t-h5) run on Montserrat, body copy / links / buttons /
+     chips / form controls on EB Garamond. Both are variable, so the heading
+     weights are real again. */
 
   .t-h1 {
-    font-family: var(--font-cg);
+    font-family: var(--font-display);
     font-size: 96px;
     line-height: 96px;
     font-weight: 500;
-    letter-spacing: -2.88px;
+    letter-spacing: -1.44px;
     text-wrap: balance;
     color: var(--color-mist);
   }
 
   /* contact / booking page headline */
   .t-h1c {
-    font-family: var(--font-cgv);
+    font-family: var(--font-display);
     font-size: 64px;
     line-height: 70.4px;
-    font-weight: 400;
-    font-variation-settings: "wght" 500;
-    letter-spacing: -1.92px;
+    font-weight: 500;
+    letter-spacing: -0.96px;
     text-wrap: balance;
     color: var(--color-mist);
   }
 
   .t-h2 {
-    font-family: var(--font-cgv);
+    font-family: var(--font-display);
     font-size: 48px;
     line-height: 52.8px;
-    font-weight: 400;
-    letter-spacing: -1.44px;
-    font-variation-settings: "wght" 500;
+    font-weight: 500;
+    letter-spacing: -0.72px;
     text-wrap: balance;
     color: var(--color-ink);
   }
 
   /* 64px page heading (hikes page) — drops to 48px on phones */
   .t-h1p {
-    font-family: var(--font-cgv);
+    font-family: var(--font-display);
     font-size: 64px;
     line-height: 70.4px;
-    font-weight: 400;
-    letter-spacing: -1.92px;
-    font-variation-settings: "wght" 500;
+    font-weight: 500;
+    letter-spacing: -0.96px;
     text-wrap: balance;
     color: var(--color-ink);
   }
@@ -100,7 +99,7 @@
     .t-h1p {
       font-size: 48px;
       line-height: 52.8px;
-      letter-spacing: -1.44px;
+      letter-spacing: -0.72px;
     }
   }
 
@@ -118,39 +117,41 @@
   }
 
   .t-h3l {
-    font-family: var(--font-clash);
+    font-family: var(--font-display);
     font-size: 36px;
     line-height: 39.6px;
     font-weight: 400;
-    letter-spacing: -1.08px;
+    letter-spacing: -0.4px;
     text-wrap: balance;
   }
 
   .t-h3s {
-    font-family: var(--font-clash);
+    font-family: var(--font-display);
     font-size: 24px;
     line-height: 26.4px;
     font-weight: 400;
-    letter-spacing: -0.72px;
+    letter-spacing: -0.2px;
   }
 
   .t-h4 {
-    font-family: var(--font-cg);
+    font-family: var(--font-display);
     font-size: 24px;
     line-height: 31.2px;
     font-weight: 500;
+    letter-spacing: -0.2px;
     text-wrap: balance;
   }
 
   .t-h5 {
-    font-family: var(--font-cg);
+    font-family: var(--font-display);
     font-size: 20px;
     line-height: 28px;
     font-weight: 500;
+    letter-spacing: -0.16px;
   }
 
   .t-body {
-    font-family: var(--font-interd);
+    font-family: var(--font-body);
     font-size: 16px;
     line-height: 22.4px;
     font-weight: 400;
@@ -158,14 +159,14 @@
   }
 
   .t-eyebrow {
-    font-family: var(--font-interd);
+    font-family: var(--font-body);
     font-size: 14px;
     line-height: 16.8px;
     font-weight: 400;
   }
 
   .t-link {
-    font-family: var(--font-interd);
+    font-family: var(--font-body);
     font-size: 16px;
     line-height: 19.2px;
     font-weight: 500;
@@ -191,7 +192,7 @@
     height: 44px;
     padding-inline: 16px;
     border-radius: 8px;
-    font-family: var(--font-interd);
+    font-family: var(--font-body);
     font-size: 16px;
     line-height: 19.2px;
     font-weight: 500;
@@ -209,8 +210,8 @@
     color: var(--color-ink);
   }
 
-  /* both button styles roll to the secondary on hover — yellow fill with the
-     primary showing through as the label */
+  /* both button styles roll to the secondary on hover — the lighter blue fill
+     with the label stepping up to mist, since blue-on-blue would vanish */
   .btn-dark,
   .btn-cream {
     transition:
@@ -221,7 +222,7 @@
   .btn-dark:hover,
   .btn-cream:hover {
     background: var(--color-secondary);
-    color: var(--color-primary);
+    color: var(--color-mist);
   }
 
   .chip {
@@ -233,7 +234,7 @@
     border-radius: 8px;
     background: rgba(255, 255, 255, 0.1);
     backdrop-filter: blur(5px);
-    font-family: var(--font-interd);
+    font-family: var(--font-body);
     font-size: 16px;
     line-height: 19.2px;
     font-weight: 500;
@@ -400,7 +401,7 @@
   /* form controls (measured off the original booking form) */
 
   .f-label {
-    font-family: var(--font-interd);
+    font-family: var(--font-body);
     font-size: 14px;
     line-height: 16.8px;
     font-weight: 400;
@@ -415,7 +416,7 @@
     border: 0;
     border-radius: 8px;
     background: var(--color-cream);
-    font-family: var(--font-interd);
+    font-family: var(--font-body);
     font-size: 16px;
     line-height: 22.4px;
     font-weight: 400;
@@ -559,9 +560,10 @@
    duplicate underneath. Hovering a card photo changes nothing there: no
    zoom, no lift, no arrow scaling.
 
-   The palette swap moves that tone step onto the secondary: yellow where the
-   link sits on a photo, primary blue where it sits on the page — yellow only
-   reaches about 1.8:1 against cream, so blue stays the readable hover there.
+   A light link on a photo steps down one tone to sage (the sampled original);
+   a link on the page steps up to primary blue. The accent blue is only 2.8:1
+   against a photo and about 1.8:1 against cream, so it stays a fill colour
+   (button and filter hovers) rather than a label colour.
 
    Deliberately unlayered: Tailwind's utilities layer would otherwise win
    over these colour rules. */
@@ -571,7 +573,7 @@ a.t-link {
 }
 
 a.t-link.text-mist:hover {
-  color: var(--color-secondary);
+  color: var(--color-sage);
 }
 
 a.t-link.text-ink:hover {
